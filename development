@@ -1,0 +1,2 @@
+#Creating a new session named development with one window named editor and detaching
+tmux new-session -s development -n editor -d
